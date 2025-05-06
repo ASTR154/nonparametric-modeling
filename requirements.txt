@@ -1,0 +1,6 @@
+astropy
+george
+matplotlib
+numpy
+scikit-learn
+scipy
